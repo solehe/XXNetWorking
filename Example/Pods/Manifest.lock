@@ -1,7 +1,7 @@
 PODS:
   - Alamofire (5.4.1)
-  - XXNetworking (0.1.0):
-    - Alamofire (~> 5.2)
+  - XXNetworking (0.1.2):
+    - Alamofire (~> 5.4.1)
 
 DEPENDENCIES:
   - XXNetworking (from `../`)
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
-  XXNetworking: 49f6a6160ed89e835ded94dd9e47b7430651068f
+  XXNetworking: 51c821ad83ff09f23a65c9ff5c23e3526d96bf2b
 
 PODFILE CHECKSUM: 628a18ce7d24585acb643e0495cd1cc98e492741
 
