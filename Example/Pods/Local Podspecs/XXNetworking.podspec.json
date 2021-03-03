@@ -12,11 +12,16 @@
     "solehe": "soleworld@163.com"
   },
   "source": {
-    "git": "https://github.com/solehe/XXNetworking.git",
+    "git": "https://github.com/solehe/XXNetWorking.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "10.0"
   },
-  "source_files": "XXNetworking/Classes/**/*"
+  "source_files": "XXNetworking/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~>5.2"
+    ]
+  }
 }

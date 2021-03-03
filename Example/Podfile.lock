@@ -1,16 +1,23 @@
 PODS:
-  - XXNetworking (0.1.0)
+  - Alamofire (5.4.1)
+  - XXNetworking (0.1.0):
+    - Alamofire (~> 5.2)
 
 DEPENDENCIES:
   - XXNetworking (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   XXNetworking:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XXNetworking: 416a712eadf1aa3f13e209a24acbab3bb54bbbb5
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  XXNetworking: 49f6a6160ed89e835ded94dd9e47b7430651068f
 
-PODFILE CHECKSUM: c0ceb667e9da3f6330f5e3d07adedfc6706869b7
+PODFILE CHECKSUM: 628a18ce7d24585acb643e0495cd1cc98e492741
 
 COCOAPODS: 1.9.3
