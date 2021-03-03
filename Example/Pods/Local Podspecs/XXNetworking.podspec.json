@@ -18,10 +18,5 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "XXNetworking/Classes/**/*",
-  "dependencies": {
-    "Alamofire": [
-      "~>5.4.1"
-    ]
-  }
+  "source_files": "XXNetworking/Classes/**/*"
 }
